@@ -3,6 +3,7 @@
 ### This model was trained on a massive dataset of 35GB which I created from many audio tracks so it was not feasible to upload that.
 ### The model obtained a accuracy of 94% when tested in real application.(More than at training time).
 
+## To test the model type `python Test.py (name_of_file)`
 
 # Requirements.
 #### Python 3
